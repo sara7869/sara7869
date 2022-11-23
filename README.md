@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara7869&count_private=true&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara7869&layout=compact)](https://github.com/sara7869/github-readme-stats)
